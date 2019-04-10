@@ -10,15 +10,28 @@
 
 ## 如何使用
 
-```sh
-git clone https://github.com/lpreterite/vue-component-rollup-example.git
+**已做为SAO模板发布了👏**
+
+先安装sao
+
+```bash
+yarn global add sao
+# or
+npm i -g sao
 ```
 
-下载到本地使用进入到目录下
+### From npm
 
-```sh
-npm install
+```bash
+sao esmodule-mold my-project
 ```
+
+### From git
+
+```bash
+sao lpreterite/sao-esmodule-mold my-project
+```
+
 
 等待安装完成后就能使用以下命令看效果了👍
 
