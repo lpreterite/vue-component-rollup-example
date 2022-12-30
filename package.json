@@ -43,7 +43,7 @@
     "gulp-sourcemaps": "^2.6.5",
     "jsdom": "~14.0.0",
     "jsdom-global": "~3.0.2",
-    "mocha": "^6.1.1",
+    "mocha": "^10.2.0",
     "nyc": "^13.3.0",
     "reify": "^0.18.1",
     "rollup": "~1.9.0",
